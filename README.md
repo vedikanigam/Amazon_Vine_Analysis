@@ -28,12 +28,12 @@ Out of the 248 reviews, 102 are 5 star reviews.
 
 Out of the 17,514 reviews, 5,154 are five star reviews.
 
-- **Percentage - 5 star Vine Reviews ** - 
+- **Percentage - 5 star Vine Reviews** - 
 ![Percentage 5 star Vine Reviews](https://github.com/vedikanigam/Amazon_Vine_Analysis/blob/main/Images/Percentagefivestars_Vine_reviews.png)
 
 41% of the total vine reviews are five star reviews.	
 
-- **Percentage - 5 star Non-Vine Reviews ** - 
+- **Percentage - 5 star Non-Vine Reviews** - 
 ![Percentage 5 star Non-Vine Reviews](https://github.com/vedikanigam/Amazon_Vine_Analysis/blob/main/Images/Percentagefivestars_Nonvine_reviews.png)
 
 29% of the total non-vine reviews are five star reviews.
